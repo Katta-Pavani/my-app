@@ -123,7 +123,8 @@ const AddStudent = () => {
         </center>
       </form>
 
-      <h2>Students:</h2>
+
+      <h2>Students details:</h2>
 
       <div className="input-box">
         <input
